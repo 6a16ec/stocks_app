@@ -163,7 +163,7 @@ private extension Finnhub.Quote {
 
 private extension Finnhub {
 
-    static let apiKey = "GET API KEY"
+    static let apiKey = "c72hrkqad3ibq0uspkag"
 
     static let host = "finnhub.io"
     static let baseUrl = "/api/v1"

@@ -29,7 +29,7 @@ class AddStockViewController: UIViewController {
 
         navigationItem.hidesSearchBarWhenScrolling = false
     }
-    
+    	
 }
 
 private extension AddStockViewController {

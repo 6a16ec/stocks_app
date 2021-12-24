@@ -126,10 +126,10 @@ private enum Environment {
     var apiKey: String {
         switch self {
         case .sandbox:
-            return "GET API KEY"
+            return "c72hrkqad3ibq0uspkag"
 
         case .production:
-            return "GET API KEY"
+            return "c72hrkqad3ibq0uspkag"
         }
     }
 
